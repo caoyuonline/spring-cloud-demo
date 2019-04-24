@@ -1,0 +1,29 @@
+server:
+  port: 89
+  tomcat:
+    uri-encoding: UTF-8
+
+spring:
+  application:
+    name: eureka-consumer
+  profiles:
+    active: dev
+
+zuul:
+  routes:
+    api-1:
+      path: /api-client1/**
+      serviceId : eureka-provider
+
+feign:
+  hystrix:
+    enabled : true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1001/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
+    status-page-url: http://${spring.cloud.client.ipAddress}:${server.port}/swagger-ui.html

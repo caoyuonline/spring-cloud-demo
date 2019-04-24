@@ -1,0 +1,55 @@
+2019-04-24 11:24:26.132 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 11:24:28.021 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 11:24:28.025 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 11:35:46.900 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 11:35:48.731 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 11:35:48.735 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 11:46:37.452 [http-nio-80-exec-5] WARN  org.springframework.web.servlet.PageNotFound - Request method 'POST' not supported
+2019-04-24 11:47:25.697 [http-nio-80-exec-7] WARN  org.springframework.web.servlet.PageNotFound - Request method 'POST' not supported
+2019-04-24 11:54:37.889 [http-nio-80-exec-1] WARN  org.springframework.web.servlet.PageNotFound - Request method 'POST' not supported
+2019-04-24 14:11:51.057 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 14:11:52.830 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 14:11:52.833 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:16:08.133 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:16:09.899 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:16:09.902 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:21:48.859 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:21:50.596 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:21:50.600 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:22:01.153 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:22:02.984 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:22:02.988 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:22:04.111 [main] WARN  com.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1556090524111, current=DOWN, previous=UP]
+2019-04-24 15:22:30.499 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:22:32.269 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:22:32.272 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:24:25.027 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:24:26.794 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:24:26.797 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:25:05.149 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:25:06.912 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:25:06.915 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:48:29.174 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:48:31.065 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:48:31.069 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:48:43.113 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:48:44.982 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:48:44.986 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:51:22.194 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:51:24.022 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:51:24.025 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:51:36.427 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:51:38.209 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:51:38.212 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:52:34.514 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 15:52:36.259 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 15:52:36.262 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:13:12.631 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 16:13:14.456 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:13:14.460 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:18:17.281 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 16:18:19.040 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:18:19.045 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:34:42.136 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[spring.cloud.eureka.provider]' package. Please check your configuration.
+2019-04-24 16:34:43.919 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-04-24 16:34:43.923 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
