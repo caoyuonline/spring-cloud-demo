@@ -20,6 +20,8 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.2.RELEASE</version>
     </parent>
-
+    <build>
+        <defaultGoal>compile</defaultGoal>
+    </build>
 
 </project>
